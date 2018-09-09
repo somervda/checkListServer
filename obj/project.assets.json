@@ -12834,23 +12834,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\developement\\.nuget\\packages\\": {},
+    "C:\\Users\\somer\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\projects\\checkListServer\\checkListServer.csproj",
+      "projectUniqueName": "C:\\Projects\\checkListServer\\checkListServer.csproj",
       "projectName": "checkListServer",
-      "projectPath": "c:\\projects\\checkListServer\\checkListServer.csproj",
-      "packagesPath": "C:\\Users\\developement\\.nuget\\packages\\",
-      "outputPath": "c:\\projects\\checkListServer\\obj\\",
+      "projectPath": "C:\\Projects\\checkListServer\\checkListServer.csproj",
+      "packagesPath": "C:\\Users\\somer\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\checkListServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\developement\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\somer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
