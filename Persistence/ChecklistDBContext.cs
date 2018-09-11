@@ -12,5 +12,6 @@ namespace checkListServer.Persistence
         }
 
         public DbSet<CheckList> CheckLists { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }
